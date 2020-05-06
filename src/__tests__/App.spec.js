@@ -18,7 +18,7 @@ const actWait = async (amount = 0) => {
   });
 };
 
-const repositoryId = 'd6e43105-a559-45b7-8fd7-53416b415741';
+const repositoryId = 'ef6c94a5-3116-46f3-a59f-c1fe43d0ae75';
 
 apiMock.onGet("repositories").reply(200, [
   {
